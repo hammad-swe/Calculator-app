@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-   // @State private var name:String = "Calculator"
+  
     @State private var displayText: String = "0"
     @State private var currentInput: String = ""
     @State private var storedValue: Double? = 0
@@ -21,9 +21,7 @@ struct ContentView: View {
             
             
             VStack {
-                //Text(name)
-                    //.font(.system(size: 40))
-                    //.foregroundColor(Color.white)
+               
                 Spacer()
                 Text(displayText)
                                 .font(.system(size: 80))
