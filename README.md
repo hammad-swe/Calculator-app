@@ -8,6 +8,8 @@ A modern, functional calculator application built using **Swift** and **SwiftUI*
 
 * **Standard Arithmetic**: Supports addition ($+$), subtraction ($-$), multiplication ($\times$), and division ($\div$).
 * **iOS-Style UI**: Clean, intuitive, and responsive interface designed with SwiftUI.
+
+  ## ✨ Features
 * **Advanced Controls**: Includes functionality for **percentage** ($\%$), **sign change** ($\pm$), and **clear** (**AC**).
 * [Optional: Add a feature, e.g., iPad Layout Support, Custom Themes, etc.]
 
@@ -72,7 +74,8 @@ Contributions are what make the open-source community such an amazing place to l
 5.  Open a Pull Request
 
 ---
-
+## 🤝 other information 
+  project is under development to add more feature and scaleable
 
 
 
