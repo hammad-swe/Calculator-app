@@ -36,15 +36,15 @@ You need **Xcode** installed on a macOS machine.
 
 1.  Clone the repository:
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/hammad-swe/Calculator-app.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd [your-repo-name]
+    cd Calculator-app
     ```
 3.  Open the project in Xcode:
     ```bash
-    open "[Your App Name].xcodeproj"
+    open "Calculator.xcodeproj"
     ```
 4.  **Run the App**: Select a simulator (e.g., iPhone 15) and click the **Run** button (or press `Cmd + R`).
 
@@ -77,4 +77,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 
 
-<img width="120" height="260" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-25 at 16 30 00" src="https://github.com/user-attachments/assets/12a9d7f0-04f1-4cfb-807a-27b70ef7c80c" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-25 at 16 30 00" src="https://github.com/user-attachments/assets/12a9d7f0-04f1-4cfb-807a-27b70ef7c80c" />
